@@ -1,0 +1,31 @@
+{
+    "makefile.configurations": [
+        {
+            "name": "Default",
+            "makeArgs": []
+        },
+        {
+            "name": "Print make version",
+            "makeArgs": ["--version"]
+        }
+    ],
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/parallels/proj/ptt-test/bin/Debug",
+            "binaryPath": "/home/parallels/proj/ptt-test/bin/Debug/ptt-test",
+            "binaryArgs": [
+                "-l",
+                "qwerkj6876eq1",
+                "-p",
+                "qweQWE120987sofjds3!",
+                "-k",
+                "256"
+            ]
+        },
+    ],
+    "files.associations": {
+        "rand.h": "c",
+        "stdlib.h": "c",
+        "parameters.h": "c"
+    }
+}

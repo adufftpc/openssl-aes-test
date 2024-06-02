@@ -1,0 +1,8 @@
+*.o
+*.d
+*.map
+*.lst
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
